@@ -1,3 +1,5 @@
+<img src="https://responsibledata.io/wp-content/uploads/2014/04/RDFhosting.png" style="width:200px;" alt="image" />
+
 The files in this directory are the outputs from the Responsible Data Forum on Hosting.
 This event was co-hosted by [the engine room](https://www.theengineroom.org), [Greenhost](https://greenhost.net/), and [HURIDOCS](http://www.huridocs.org/). The outputs contained here would not have been possible without the hard work and collaboration of Web Architects, equalit.ie, the Internet Protection Lab, HURIDOCS, Greenhost, and the Bahrain Centre for Human Rights. 
 
