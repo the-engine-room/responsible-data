@@ -1,0 +1,67 @@
+#Cluster of Questions and Outputs
+##Questions
+- If data is exposed what is the hoster's responsibility
+- Hosting is more than a data dump. Who looks at the logs
+- What are the risks? Can we make this tangible?
+- Security versus privacy in hosting considerations
+- Balance between user autonomy and security
+- What is hoster's responsibility, what is the users' responsibility?
+- Self-reporting by hosting providers
+- What kinds of users are there in the NGO world
+- What are appropriate contingency measures?
+- I am a sysadmin at an NGO that wants to selfhost our things, how do I know I am doing the right thing?
+- How users can make better decisions
+- Shared hosting considerations for sensitive data hosting
+- Anonymized hosting using TOR hidden services
+- How to explain technical questions to non-technical users
+- What do I tell people at risk about their data
+- Who can you ask for help?
+- How involved should victims/at-risk/beneficiaries be in hosting decisions?
+- Jurisdiction decision-making
+- Jurisdiction awareness
+- Where is the best, most privacy-friendly place to host my data?
+- What are the most common mistakes for a hoster to avoid
+- How do we establish levels of data sensitivity? Should we?
+- Debunking the myths of jurisdictions and hosting
+- How will I know if my hosting is bad?
+- How to find your blind spots
+- Possibility of a hardened hosting service
+- What to tell your clients you are doing to assure and to protect
+- No credit cards?! How do they pay you
+- Cost for responsible hosting versus corporate/irresponsible
+- How to validate responsible hosting company
+- Should a certification process be established
+- I work with human rights orgs with little cash and sensitive data - who will take them on as clients? 
+##Possible Outputs
+- Migration processes/tasks from irresponsible --> responsible
+- What information people need to pick a host intelligently
+- Responsible things to do when building a web platform
+- What to ask your hosting provider
+- Checklist for choosing hosting for NGOs
+- Top five action points for better hosting in our own org
+- Checklist for an org that is about to grow, and what pitfalls to avoid
+- User stories for hosting solutions
+- What to do when you migrate
+- What to look for to protect your online identity (DNS, - WhoIs, jurisdiction, SSL, etc)
+- The sensitive data project cheat sheet
+- Template for a privacy policy page
+- List of audit-options/certificates that actually mean something (e.g. not ISO27001)
+- Policies or notes on how to react to a hack
+- 3rd party services (map them, find alternatives for your site)
+- Self-hosted or locally hosted alternatives to the big 5s tools
+- Who has your data? Visualize!
+- What are you storing and why
+- List of specification requirements based on several common threat models
+- Logging decisions - processes and decision tree
+- Non-technical project manager responsible hosting cheat sheet
+- Good example of navigating ownership in a shared database
+- Top questions to ask a hoster (that we can answer)
+- List of things (not) to expect from my hoster
+- Hosting set-up wiz and cheat sheet for directors
+- Things to ask my (new) hosting provider
+- What are the signs of a bad provider (list)
+- Drafting an understandble statement of responsibility
+- How can usage stats be created without violating privacy
+- IT infrastructure for a dream set-up for a large NGO
+- Checklist system for organizations to help them think through what they are hosting
+- Starter pack for what people need to know about hosting (before they start with a new hosting provider)
