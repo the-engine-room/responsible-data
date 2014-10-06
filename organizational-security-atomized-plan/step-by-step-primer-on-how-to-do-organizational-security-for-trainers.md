@@ -1,4 +1,4 @@
-I am: a security trainer
+#I am: a security trainer
 
 ##What is this?
 This is an atomized security plan for organizational security. It is meant to be used to supplement security trainers planning process for supporting organizations who are interested in incrementally improving their security practices.
